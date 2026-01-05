@@ -1,4 +1,4 @@
-## Olá, sou o LucasHAC 👋
+## Olá, sou o Lucas 👋
 
 
 - 💻 Conhecimentos : Python, HTML, CSS, JS, C.
